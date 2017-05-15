@@ -5,40 +5,49 @@ NULL,DRAMA,A Few Good Men,D,,132,A Few Good Men.jpg,34,NULL,NULL
 NULL,COMDY,A Fish Called Wanda,D,Special Edition,104,A Fish Called Wanda.jpg,32,NULL,NULL
 NULL,HIST,A Knight's Tale,D,,138,A Knight's Tale.jpg,24,NULL,NULL
 NULL,THRIL,Air America,D,,108,Air America.jpg,36,NULL,NULL
+NULL,ACTN,Air Force One,B,,124,Air Force One.jpg,42,NULL,NULL
 NULL,DRAMA,Alive,D,,121,Alive.jpg,40,NULL,NULL
 NULL,WAR,All Quiet on the Western Front,D,,123,All Quiet on the Western Front.jpg,0,NULL,NULL
 NULL,DRAMA,All the President's Men,D,2-Disc Special Edition,133,All the President's Men.jpg,0,NULL,NULL
 NULL,DRAMA,Amadeus,D,,153,Amadeus.jpg,0,NULL,NULL
 NULL,THRIL,American Gangster,D,Extended Edition,150,American Gangster.jpg,0,NULL,NULL
-NULL,COMDY,American Pie,D,Ultimate Edition,109,American Pie.jpg,0,NULL,NULL
 NULL,DRAMA,Amistad,D,,148,Amistad.jpg,0,NULL,NULL
+NULL,DRAMA,Any Given Sunday,B,Directors Cut,157,Any Given Sunday.jpg,37,NULL,NULL
 NULL,DISAS,Armageddon,D,2-Disc Collector's Edition,147,Armageddon.jpg,0,NULL,NULL
+NULL,ACTN,Arn: Knight Templar,B,,130,Arn - Knight Templar.jpg,31,NULL,NULL
 NULL,DISAS,Atomic Train,D,,116,Atomic Train.jpg,0,NULL,NULL
 NULL,COMDY,Austin Powers,D,,91,Austin Powers.jpg,0,NULL,NULL
 NULL,COMDY,Austin Powers - Goldmember,D,,91,Austin Powers - Goldmember.jpg,0,NULL,NULL
 NULL,COMDY,Austin Powers - The Spy who Shagged Me,D,,92,Austin Powers - The Spy who Shagged Me.jpg,0,NULL,NULL
 NULL,ACTN,Bad Boys,D,,114,Bad Boys.jpg,0,NULL,NULL
-NULL,ACTN,Bad Boys 2,D,,141,Bad Boys 2.jpg,0,NULL,NULL
+NULL,ACTN,Bad Boys II,D,,141,Bad Boys II.jpg,0,NULL,NULL
+NULL,WAR,Battle of Britain,B,,131,Battle of Britain.jpg,34,NULL,NULL
+NULL,SCIFI,Battle: Los Angeles,B,,116,Battle - Los Angeles.jpg,29,NULL,NULL
 NULL,WAR,Beaufort,D,,125,Beaufort.jpg,0,NULL,NULL
+NULL,WAR,Behind Enemy Lines,B,,101,Behind Enemy Lines.jpg,37,NULL,NULL
 NULL,COMDY,Beverly Hills Cop,D,,101,Beverly Hills Cop.jpg,0,NULL,NULL
 NULL,COMDY,Beverly Hills Cop II,D,,99,Beverly Hills Cop II.jpg,0,NULL,NULL
 NULL,COMDY,Beverly Hills Cop III,D,,100,Beverly Hills Cop III.jpg,0,NULL,NULL
 NULL,ADVNT,Big Trouble in Little China,D,,95,Big Trouble in Little China.jpg,0,NULL,NULL
 NULL,ACTN,Bird on a Wire,D,,106,Bird on a Wire.jpg,0,NULL,NULL
+NULL,HIST,Black Death,B,,101,Black Death.jpg,33,NULL,NULL
 NULL,ACTN,Blade,D,,115,Blade.jpg,0,NULL,NULL
-NULL,THRIL,Bladerunner,D,The Final Cut,117,Bladerunner.jpg,0,NULL,NULL
+NULL,ACTN,Blade,B,,120,Blade.jpg,24,NULL,NULL
+NULL,THRIL,Blade Runner,D,The Final Cut,117,Blade Runner.jpg,0,NULL,NULL
 NULL,COMDY,Blades of Glory,D,,89,Blades of Glory.jpg,0,NULL,NULL
 NULL,THRIL,Body of Lies,D,,123,Body of Lies.jpg,0,NULL,NULL
 NULL,COMDY,Borat,D,,80,Borat.jpg,0,NULL,NULL
-NULL,WAR,Brotherhood (Taegukgi),D,,142,Brotherhood (Taegukgi).jpg,0,NULL,NULL
+NULL,ACTN,Broken Arrow,B,,104,Broken Arrow.jpg,18,NULL,NULL
+NULL,WAR,Brotherhood (Taegukgi),D,,142,Brotherhood.jpg,0,NULL,NULL
 NULL,THRIL,Burn After Reading,D,,92,Burn After Reading.jpg,0,NULL,NULL
 NULL,WAR,By Dawn's Early Light,D,,100,By Dawn's Early Light.jpg,0,NULL,NULL
-NULL,DOC,C.S.A Confederate States of America,D,,89,C.S.A Confederate States of America.jpg,0,NULL,NULL
+NULL,DOC,C.S.A. Confederate States of America,D,,89,C.S.A. Confederate States of America.jpg,0,NULL,NULL
 NULL,COMDY,Caddyshack,D,,94,Caddyshack.jpg,0,NULL,NULL
 NULL,COMDY,Caddyshack II,D,,94,Caddyshack II.jpg,0,NULL,NULL
 NULL,DRAMA,Casablanca,D,,98,Casablanca.jpg,0,NULL,NULL
 NULL,WAR,Casualties of War,D,,109,Casualties of War.jpg,0,NULL,NULL
 NULL,THRIL,Catch Me if You Can,D,,135,Catch Me if You Can.jpg,0,NULL,NULL
+NULL,HIST,Centurion,B,,93,Centurion.jpg,0,NULL,NULL
 NULL,THRIL,Changeling,D,,142,Changeling.jpg,0,NULL,NULL
 NULL,THRIL,Changing Lanes,D,,95,Changing Lanes.jpg,0,NULL,NULL
 NULL,DRAMA,Charlie Wilson's War,D,,98,Charlie Wilson's War.jpg,0,NULL,NULL
@@ -46,9 +55,13 @@ NULL,COMDY,Chasing Amy,D,,108,Chasing Amy.jpg,0,NULL,NULL
 NULL,DRAMA,Children of Men,D,2-Disc Special Edition,105,Children of Men.jpg,0,NULL,NULL
 NULL,DRAMA,City Hall,D,,107,City Hall.jpg,0,NULL,NULL
 NULL,DRAMA,City of Men,D,,102,City of Men.jpg,0,NULL,NULL
+NULL,THRIL,Cliffhanger,B,,109,Cliffhanger.jpg,0,NULL,NULL
 NULL,HORR,Cloverfield,D,,81,Cloverfield.jpg,0,NULL,NULL
 NULL,WAR,Come and See,D,,137,Come and See.jpg,0,NULL,NULL
+NULL,ACTN,Con Air,B,,115,Con Air.jpg,0,NULL,NULL
 NULL,ADVNT,Congo,D,,104,Congo.jpg,0,NULL,NULL
+NULL,DRAMA,Contact,B,,149,Contact.jpg,0,NULL,NULL
+NULL,DRAMA,Contagion,B,,106,Contagion.jpg,0,NULL,NULL
 NULL,DRAMA,Courage Under Fire,D,,112,Courage Under Fire.jpg,0,NULL,NULL
 NULL,DRAMA,Criminal,D,,84,Criminal.jpg,0,NULL,NULL
 NULL,COMDY,Crocodile Dundee,D,,94,Crocodile Dundee.jpg,0,NULL,NULL
@@ -65,88 +78,132 @@ NULL,COMDY,Dogma,D,,123,Dogma.jpg,0,NULL,NULL
 NULL,DRAMA,Donnie Darko,D,,111,Donnie Darko.jpg,0,NULL,NULL
 NULL,DRAMA,Dr Strangelove,D,Collector's Edition,90,Dr Strangelove.jpg,0,NULL,NULL
 NULL,THRIL,Eastern Promises,D,,96,Eastern Promises.jpg,0,NULL,NULL
+NULL,THRIL,Elysium,B,,109,Elysium.jpg,0,NULL,NULL
 NULL,COMDY,Empire Records,D,Remix Special Fan Edition,102,Empire Records.jpg,0,NULL,NULL
 NULL,WAR,Enemy At the Gates,D,,125,Enemy At the Gates.jpg,0,NULL,NULL
 NULL,MUSIC,Evita,D,,129,Evita.jpg,0,NULL,NULL
-NULL,DOC,Farenheit 9/11,D,,122,Farenheit 9/11.jpg,0,NULL,NULL
+NULL,DRAMA,Ex_Machina,B,,108,Ex_Machina.jpg,0,NULL,NULL
+NULL,DOC,Farenheit 9/11,D,,122,Farenheit 9-11.jpg,0,NULL,NULL
 NULL,DRAMA,Fargo,D,Special Edition,94,Fargo.jpg,0,NULL,NULL
 NULL,COMDY,Ferris Bueller's Day Off,D,Bueller Edition,99,Ferris Bueller's Day Off.jpg,0,NULL,NULL
 NULL,COMDY,Fierce Creatures,D,,89,Fierce Creatures.jpg,0,NULL,NULL
 NULL,ACTN,Final Destination,D,,94,Final Destination.jpg,0,NULL,NULL
 NULL,WAR,Flame and Citron,D,,130,Flame and Citron.jpg,0,NULL,NULL
+NULL,ACTN,Flight,B,,138,Flight.jpg,0,NULL,NULL
 NULL,DRAMA,Forever Young,D,,97,Forever Young.jpg,0,NULL,NULL
 NULL,THRIL,Frantic,D,,115,Frantic.jpg,0,NULL,NULL
-NULL,DRAMA,Frost/Nixon,D,,117,Frost/Nixon.jpg,0,NULL,NULL
+NULL,HORR,From Dusk till Dawn,B,,108,From Dusk till Dawn.jpg,0,NULL,NULL
+NULL,DRAMA,Frost/Nixon,D,,117,Frost - Nixon.jpg,0,NULL,NULL
 NULL,WAR,Full Metal Jacket,D,,112,Full Metal Jacket.jpg,0,NULL,NULL
 NULL,WAR,Gallipoli,D,Collector's Edition,107,Gallipoli.jpg,0,NULL,NULL
 NULL,HIST,Gettysburg,D,,244,Gettysburg.jpg,0,NULL,NULL
+NULL,ACTN,Glory,B,,122,Glory.jpg,0,NULL,NULL
 NULL,HIST,Gods and Generals,D,,180,Gods and Generals.jpg,0,NULL,NULL
+NULL,ACTN,Godzilla,B,,139,Godzilla.jpg,0,NULL,NULL
 NULL,THRIL,Gomorrah,D,,131,Gomorrah.jpg,0,NULL,NULL
-NULL,DRAMA,Goodby Charlie Bright,D,,84,Goodby Charlie Bright.jpg,0,NULL,NULL
+NULL,DRAMA,Gone Baby Gone,B,,114,Gone Baby Gone.jpg,0,NULL,NULL
+NULL,DRAMA,Good Will Hunting,B,,126,Good Will Hunting.jpg,0,NULL,NULL
+NULL,DRAMA,Goodbye Charlie Bright,D,,84,Goodbye Charlie Bright.jpg,0,NULL,NULL
 NULL,DRAMA,Green Street,D,,105,Green Street.jpg,0,NULL,NULL
+NULL,WAR,Hamburger Hill,B,,110,Hamburger Hill.jpg,0,NULL,NULL
 NULL,COMDY,Happy Gilmore,D,,88,Happy Gilmore.jpg,0,NULL,NULL
-NULL,WAR,Heaven & Earth,D,,135,Heaven & Earth.jpg,0,NULL,NULL
+NULL,WAR,Heartbreak Ridge,B,,130,Heartbreak Ridge.jpg,0,NULL,NULL
+NULL,WAR,Heaven & Earth,D,,135,Heaven and Earth.jpg,0,NULL,NULL
 NULL,DRAMA,High Fidelity,D,,109,High Fidelity.jpg,0,NULL,NULL
+NULL,ACTN,Highlander,B,Immortal Edition,117,Highlander.jpg,0,NULL,NULL
+NULL,COMDY,Horrible Bosses,B,Totally Inappropriate Edition,98,Horrible Bosses.jpg,0,NULL,NULL
 NULL,HORR,Hostel,D,Ultimate Edition,90,Hostel.jpg,0,NULL,NULL
 NULL,HORR,Hostel Part II,D,Unseen Edition,91,Hostel Part II.jpg,0,NULL,NULL
 NULL,COMDY,Hot Fuzz,D,2 Disc Special Edition,116,Hot Fuzz.jpg,0,NULL,NULL
 NULL,COMDY,Hot Shots,D,,82,Hot Shots.jpg,0,NULL,NULL
 NULL,COMDY,Hot Shots Part Deux,D,,85,Hot Shots Part Deux.jpg,0,NULL,NULL
 NULL,WAR,Hotel Rwanda,D,,117,Hotel Rwanda.jpg,0,NULL,NULL
+NULL,HORR,I am Legend,B,,104,I am Legend.jpg,0,NULL,NULL
 NULL,COMDY,I Now Pronounce You Chuck & Larry,D,,115,I Now Pronounce You Chuck & Larry.jpg,0,NULL,NULL
 NULL,THRIL,"I, Robot",D,,109,"I, Robot.jpg",0,NULL,NULL
 NULL,DRAMA,In Bruges,D,,102,In Bruges.jpg,0,NULL,NULL
+NULL,THRIL,In the Line of Fire,B,,128,In the Line of Fire.jpg,0,NULL,NULL
 NULL,DRAMA,In the Name of the Father,D,,133,In the Name of the Father.jpg,0,NULL,NULL
+NULL,DRAMA,In the Valley of Elah,B,,121,In the Valley of Elah.jpg,0,NULL,NULL
 NULL,ACTN,Inside Man,D,,123,Inside Man.jpg,0,NULL,NULL
 NULL,WAR,Intimate Enemies,D,,106,Intimate Enemies.jpg,0,NULL,NULL
+NULL,HIST,Ironclad,B,,121,Ironclad.jpg,0,NULL,NULL
+NULL,THRIL,Jack Ryan: Shadow Recruit,B,,106,Jack Ryan - Shadow Recruit.jpg,0,NULL,NULL
 NULL,DRAMA,Jackie Brown,D,2 Disc Special Edition,148,Jackie Brown.jpg,0,NULL,NULL
 NULL,COMDY,Jay and Silent Bob Strike Back,D,2-Disc Collector's Edition,100,Jay and Silent Bob Strike Back.jpg,0,NULL,NULL
 NULL,DRAMA,JFK,D,,181,JFK.jpg,0,NULL,NULL
 NULL,THRIL,Judgment Night,D,,105,Judgment Night.jpg,0,NULL,NULL
 NULL,THRIL,K19 The Widowmaker,D,,132,K19 The Widowmaker.jpg,0,NULL,NULL
+NULL,WAR,Katyn,B,,118,Katyn.jpg,0,NULL,NULL
 NULL,ACTN,Kill Bill Volume 1,D,,106,Kill Bill Volume 1.jpg,0,NULL,NULL
 NULL,ACTN,Kill Bill Volume 2,D,,131,Kill Bill Volume 2.jpg,0,NULL,NULL
-NULL,WAR,Kokoda: 39th Batallion,D,,92,Kokoda: 39th Batallion.jpg,0,NULL,NULL
+NULL,WAR,Kokoda: 39th Battalion,D,,92,Kokoda - 39th Battalion.jpg,0,NULL,NULL
 NULL,THRIL,LA Confidential,D,,132,LA Confidential.jpg,0,NULL,NULL
 NULL,DRAMA,La Haine,D,,93,La Haine.jpg,0,NULL,NULL
 NULL,WAR,Land and Freedom,D,,109,Land and Freedom.jpg,0,NULL,NULL
+NULL,WAR,Lebanon,B,,90,Lebanon.jpg,0,NULL,NULL
 NULL,DRAMA,Legends of the Fall,D,,128,Legends of the Fall.jpg,0,NULL,NULL
 NULL,MUSIC,Les Miserables,D,Collector's Edition,150,Les Miserables.jpg,0,NULL,NULL
+NULL,ACTN,Live Die Repeat,B,,113,Live Die Repeat.jpg,0,NULL,NULL
+NULL,DRAMA,Malcolm X,B,,161,Malcolm X.jpg,0,NULL,NULL
 NULL,COMDY,Mallrats,D,,91,Mallrats.jpg,0,NULL,NULL
+NULL,COMDY,Mallrats,B,,95,Mallrats.jpg,0,NULL,NULL
+NULL,COMDY,Mars Attacks,B,,106,Mars Attacks.jpg,0,NULL,NULL
 NULL,HIST,Master and Commander,D,,141,Master and Commander.jpg,0,NULL,NULL
 NULL,ADVNT,Maverick,D,,121,Maverick.jpg,0,NULL,NULL
 NULL,COMDY,Meet the Fockers,D,,110,Meet the Fockers.jpg,0,NULL,NULL
+NULL,DRAMA,Memento,B,,109,Memento.jpg,0,NULL,NULL
 NULL,WAR,Memphis Belle,D,,103,Memphis Belle.jpg,0,NULL,NULL
 NULL,COMDY,Men at Work,D,,88,Men at Work.jpg,0,NULL,NULL
 NULL,THRIL,Mercury Rising,D,,107,Mercury Rising.jpg,0,NULL,NULL
 NULL,HIST,Michael Colins,D,,127,Michael Colins.jpg,0,NULL,NULL
+NULL,DRAMA,Milk,B,,128,Milk.jpg,0,NULL,NULL
 NULL,ACTN,Minority Report,D,,139,Minority Report.jpg,0,NULL,NULL
 NULL,ACTN,Mission Impossible,D,,105,Mission Impossible.jpg,0,NULL,NULL
 NULL,COMDY,Monty Python and the Quest for the Holy Grail,D,Extraordinarily Deluxe Edition,86,Monty Python and the Quest for the Holy Grail.jpg,0,NULL,NULL
 NULL,THRIL,Munich,D,,157,Munich.jpg,0,NULL,NULL
+NULL,COMDY,My Cousin Vinny,B,,119,My Cousin Vinny.jpg,0,NULL,NULL
+NULL,DRAMA,Mystic River,B,,138,Mystic River.jpg,0,NULL,NULL
 NULL,ACTN,Navy Seals,D,,109,Navy Seals.jpg,0,NULL,NULL
+NULL,ACTN,Nikita,B,,117,Nikita.jpg,0,NULL,NULL
 NULL,DRAMA,Nine and a Half Weeks,D,,112,Nine and a Half Weeks.jpg,0,NULL,NULL
 NULL,DRAMA,Nixon,D,,183,Nixon.jpg,0,NULL,NULL
 NULL,THRIL,No Country for Old Men,D,,117,No Country for Old Men.jpg,0,NULL,NULL
 NULL,WAR,No Man's Land,D,,93,No Man's Land.jpg,0,NULL,NULL
+NULL,HIST,Noah,B,,138,Noah.jpg,0,NULL,NULL
 NULL,COMDY,Not Another Teen Movie,D,,85,Not Another Teen Movie.jpg,0,NULL,NULL
+NULL,SCIFI,Oblivion,B,,125,Oblivion.jpg,0,NULL,NULL
 NULL,COMDY,Office Space,D,,85,Office Space.jpg,0,NULL,NULL
+NULL,ACTN,Olympus Has Fallen,B,,119,Olympus Has Fallen.jpg,0,NULL,NULL
 NULL,DRAMA,Out of Sight,D,,118,Out of Sight.jpg,0,NULL,NULL
 NULL,DRAMA,Path to War,D,,158,Path to War.jpg,0,NULL,NULL
 NULL,WAR,Patton,D,,163,Patton.jpg,0,NULL,NULL
+NULL,COMDY,Paul,B,,104,Paul.jpg,0,NULL,NULL
+NULL,THRIL,Payback,B,,97,Payback.jpg,0,NULL,NULL
 NULL,THRIL,Paycheck,D,,114,Paycheck.jpg,0,NULL,NULL
+NULL,DRAMA,Perrier's Bounty,B,,88,Perrier's Bounty.jpg,0,NULL,NULL
+NULL,DRAMA,Phonebooth,B,,77,Phonebooth.jpg,0,NULL,NULL
+NULL,THRIL,Point Break,B,,122,Point Break.jpg,0,NULL,NULL
 NULL,COMDY,Police Academy,D,20th Anniversary,92,Police Academy.jpg,0,NULL,NULL
+NULL,ACTN,Pompeii,B,,104,Pompeii.jpg,0,NULL,NULL
+NULL,SCIFI,Predator,B,,107,Predator.jpg,0,NULL,NULL
 NULL,WAR,Pretty Village Pretty Flame,D,,123,Pretty Village Pretty Flame.jpg,0,NULL,NULL
 NULL,DRAMA,Princesses,D,,109,Princesses.jpg,0,NULL,NULL
 NULL,DRAMA,Quadrophenia,D,2-Disc Special Edition,115,Quadrophenia.jpg,0,NULL,NULL
 NULL,THRIL,Quantum of Solace,D,,102,Quantum of Solace.jpg,0,NULL,NULL
 NULL,COMDY,Raw,D,,87,Raw.jpg,0,NULL,NULL
+NULL,ACTN,Red,B,,107,Red.jpg,0,NULL,NULL
 NULL,WAR,Red Dawn,D,,109,Red Dawn.jpg,0,NULL,NULL
+NULL,ACTN,Red Heat,B,,105,Red Heat.jpg,0,NULL,NULL
+NULL,HORR,Red State,B,,85,Red State.jpg,0,NULL,NULL
 NULL,WAR,Redacted,D,,86,Redacted.jpg,0,NULL,NULL
 NULL,DRAMA,Requiem for a Dream,D,,97,Requiem for a Dream.jpg,0,NULL,NULL
 NULL,THRIL,Resevoir Dogs,D,,95,Resevoir Dogs.jpg,0,NULL,NULL
+NULL,THRIL,Rise of the Planet of the Apes,B,,100,Rise of the Planet of the Apes.jpg,0,NULL,NULL
 NULL,THRIL,Rising Sun,D,,124,Rising Sun.jpg,0,NULL,NULL
+NULL,HIST,Rob Roy,B,,139,Rob Roy.jpg,0,NULL,NULL
 NULL,ADVNT,Romancing the Stone,D,,101,Romancing the Stone.jpg,0,NULL,NULL
+NULL,ADVNT,Romancing the Stone,B,,105,Romancing the Stone.jpg,0,NULL,NULL
 NULL,DRAMA,Romanzo Criminale,D,,147,Romanzo Criminale.jpg,0,NULL,NULL
 NULL,DRAMA,Romeo & Juliet,D,Special Edition,115,Romeo & Juliet.jpg,0,NULL,NULL
 NULL,THRIL,Run Lola Run,D,,77,Run Lola Run.jpg,0,NULL,NULL
@@ -154,83 +211,128 @@ NULL,DRAMA,Runaway Jury,D,,122,Runaway Jury.jpg,0,NULL,NULL
 NULL,WAR,Salvador,D,,118,Salvador.jpg,0,NULL,NULL
 NULL,WAR,Saviour,D,,99,Saviour.jpg,0,NULL,NULL
 NULL,COMDY,Say it isn't so,D,,92,Say it isn't so.jpg,0,NULL,NULL
-NULL,WAR,Schinder's List,D,,187,Schinder's List.jpg,0,NULL,NULL
+NULL,WAR,Schindler's List,D,,187,Schindler's List.jpg,0,NULL,NULL
 NULL,HORR,Scream,D,,106,Scream.jpg,0,NULL,NULL
 NULL,HORR,Scream 2,D,,115,Scream 2.jpg,0,NULL,NULL
 NULL,HORR,Scream 3,D,,112,Scream 3.jpg,0,NULL,NULL
 NULL,COMDY,Semi Pro,D,Let's get Sweaty Edition,100,Semi Pro.jpg,0,NULL,NULL
+NULL,SCIFI,Serenity,B,,119,Serenity.jpg,0,NULL,NULL
 NULL,THRIL,Seven,D,,122,Seven.jpg,0,NULL,NULL
 NULL,COMDY,She's all that,D,,91,She's all that.jpg,0,NULL,NULL
+NULL,THRIL,Shooter,B,,126,Shooter.jpg,0,NULL,NULL
 NULL,COMDY,Shrek 2,D,,89,Shrek 2.jpg,0,NULL,NULL
 NULL,ACTN,Smokin Aces,D,,104,Smokin Aces.jpg,0,NULL,NULL
 NULL,COMDY,Sneakers,D,,120,Sneakers.jpg,0,NULL,NULL
 NULL,WAR,Soldier of Orange,D,,149,Soldier of Orange.jpg,0,NULL,NULL
+NULL,WAR,Special Forces,B,,108,Special Forces.jpg,0,NULL,NULL
 NULL,COMDY,Spies Like Us,D,,98,Spies Like Us.jpg,0,NULL,NULL
 NULL,DRAMA,St Elmo's Fire,D,,104,St Elmo's Fire.jpg,0,NULL,NULL
+NULL,SCIFI,Stargate,B,,126,Stargate.jpg,0,NULL,NULL
 NULL,THRIL,State of Play,D,,122,State of Play.jpg,0,NULL,NULL
+NULL,COMDY,Step Brothers,B,Extended Edition,105,Step Brothers.jpg,0,NULL,NULL
 NULL,COMDY,Superbad,D,,108,Superbad.jpg,0,NULL,NULL
 NULL,COMDY,Supertroopers,D,,96,Supertroopers.jpg,0,NULL,NULL
 NULL,COMDY,Talladega Nights,D,,116,Talladega Nights.jpg,0,NULL,NULL
+NULL,ACTN,Tango and Cash,B,,104,Tango and Cash.jpg,0,NULL,NULL
+NULL,DRAMA,Taxi Driver,B,35th Anniversary Edition,114,Taxi Driver.jpg,0,NULL,NULL
 NULL,COMDY,Team America,D,,94,Team America.jpg,0,NULL,NULL
 NULL,THRIL,Tequila Sunrise,D,,111,Tequila Sunrise.jpg,0,NULL,NULL
 NULL,COMDY,The 40-Year Old Virgin,D,XXL Version,127,The 40-Year Old Virgin.jpg,0,NULL,NULL
+NULL,WAR,The Army of Crime,B,,139,The Army of Crime.jpg,0,NULL,NULL
+NULL,ACTN,The A-Team,B,Explosive Extended Edition,128,The A-Team.jpg,0,NULL,NULL
+NULL,DRAMA,The Aviator,B,,170,The Aviator.jpg,0,NULL,NULL
 NULL,ACTN,The Bank Job,D,,107,The Bank Job.jpg,0,NULL,NULL
+NULL,DRAMA,The Big Lebowski,B,,97,The Big Lebowski.jpg,0,NULL,NULL
 NULL,HORR,The Blair Witch Project,D,,78,The Blair Witch Project.jpg,0,NULL,NULL
 NULL,COMDY,The Boat that Rocked,D,,130,The Boat that Rocked.jpg,0,NULL,NULL
+NULL,DRAMA,The Book Thief,B,,125,The Book Thief.jpg,0,NULL,NULL
+NULL,ACTN,The Bourne Legacy,B,,135,The Bourne Legacy.jpg,0,NULL,NULL
 NULL,ACTN,The Boy in the Striped Pyjamas,D,,90,The Boy in the Striped Pyjamas.jpg,0,NULL,NULL
+NULL,DRAMA,The Boy in the Striped Pyjamas,B,,94,The Boy in the Striped Pyjamas.jpg,0,NULL,NULL
+NULL,THRIL,The Boys from Brazil,B,,118,The Boys from Brazil.jpg,0,NULL,NULL
 NULL,DRAMA,The Constant Gardener,D,,123,The Constant Gardener.jpg,0,NULL,NULL
 NULL,DRAMA,The Contender,D,,121,The Contender.jpg,0,NULL,NULL
 NULL,WAR,The Counterfeiters,D,,95,The Counterfeiters.jpg,0,NULL,NULL
 NULL,ACTN,The Crow,D,,101,The Crow.jpg,0,NULL,NULL
 NULL,DRAMA,The Crucible,D,,118,The Crucible.jpg,0,NULL,NULL
 NULL,DRAMA,The Curious Case of Benjamin Button,D,,158,The Curious Case of Benjamin Button.jpg,0,NULL,NULL
+NULL,DRAMA,The Damned United,B,,98,The Damned United.jpg,0,NULL,NULL
+NULL,ACTN,The Day after Tomorrow,B,,118,The Day after Tomorrow.jpg,0,NULL,NULL
 NULL,DRAMA,The Deer Hunter,D,,176,The Deer Hunter.jpg,0,NULL,NULL
 NULL,THRIL,The Devil's Own,D,,107,The Devil's Own.jpg,0,NULL,NULL
 NULL,WAR,The Downfall of Berlin,D,,126,The Downfall of Berlin.jpg,0,NULL,NULL
+NULL,HIST,The Eagle,B,,114,The Eagle.jpg,0,NULL,NULL
+NULL,ACTN,The Expendables,B,Uncut Version,103,The Expendables.jpg,0,NULL,NULL
 NULL,DRAMA,The Good Shepherd,D,,160,The Good Shepherd.jpg,0,NULL,NULL
 NULL,ADVNT,The Goonies,D,Full Length Version,110,The Goonies.jpg,0,NULL,NULL
+NULL,DRAMA,The Grand Budapest hotel,B,,95,The Grand Budapest hotel.jpg,0,NULL,NULL
+NULL,DRAMA,The Guard,B,,92,The Guard.jpg,0,NULL,NULL
 NULL,ACTN,The International,D,,113,The International.jpg,0,NULL,NULL
+NULL,THRIL,The Island,B,,136,The Island.jpg,0,NULL,NULL
 NULL,ADVNT,The Jewel of the Nile,D,,101,The Jewel of the Nile.jpg,0,NULL,NULL
+NULL,ADVNT,The Jewel of the Nile,B,,101,The Jewel of the Nile.jpg,0,NULL,NULL
 NULL,DRAMA,The Killing Fields,D,,136,The Killing Fields.jpg,0,NULL,NULL
 NULL,ACTN,The Kingdom,D,,105,The Kingdom.jpg,0,NULL,NULL
 NULL,DRAMA,The Kite Runner,D,,122,The Kite Runner.jpg,0,NULL,NULL
+NULL,ACTN,The Last Boy Scout,B,,105,The Last Boy Scout.jpg,0,NULL,NULL
 NULL,HIST,The Last of the Mohicans,D,,108,The Last of the Mohicans.jpg,0,NULL,NULL
+NULL,DRAMA,The Lincoln Lawyer,B,,118,The Lincoln Lawyer.jpg,0,NULL,NULL
 NULL,DRAMA,The Lives of Others,D,,132,The Lives of Others.jpg,0,NULL,NULL
 NULL,THRIL,The Living Daylights,D,Ultimate Edition,125,The Living Daylights.jpg,0,NULL,NULL
+NULL,WAR,The Monuments Men,B,,113,The Monuments Men.jpg,0,NULL,NULL
 NULL,COMDY,The Naked Gun,D,,82,The Naked Gun.jpg,0,NULL,NULL
 NULL,COMDY,The Naked Gun 2 1/2,D,,85,The Naked Gun 2.jpg,0,NULL,NULL
 NULL,COMDY,The Naked Gun 33 1/3,D,,83,The Naked Gun 3.jpg,0,NULL,NULL
 NULL,THRIL,The Negotiator,D,,134,The Negotiator.jpg,0,NULL,NULL
+NULL,THRIL,The Negotiator,B,,139,The Negotiator.jpg,0,NULL,NULL
 NULL,HIST,The New World,D,,130,The New World.jpg,0,NULL,NULL
+NULL,COMDY,The Other Guys,B,,107,The Other Guys.jpg,0,NULL,NULL
+NULL,COMDY,The Proposal,B,,108,The Proposal.jpg,0,NULL,NULL
+NULL,ACTN,The Quick and the Dead,B,,107,The Quick and the Dead.jpg,0,NULL,NULL
 NULL,WAR,The Ring,D,,177,The Ring.jpg,0,NULL,NULL
 NULL,ADVNT,The Scorpion King,D,,88,The Scorpion King.jpg,0,NULL,NULL
 NULL,COMDY,The Secret of my Success,D,,106,The Secret of my Success.jpg,0,NULL,NULL
 NULL,ACTN,The Sentinal,D,,103,The Sentinal.jpg,0,NULL,NULL
+NULL,THRIL,The Siege,B,,116,The Siege.jpg,0,NULL,NULL
 NULL,THRIL,The Silence of the Lambs,D,Special Edition,114,The Silence of the Lambs.jpg,0,NULL,NULL
 NULL,COMDY,The Simpsons Movie,D,,83,The Simpsons Movie.jpg,0,NULL,NULL
+NULL,THRIL,The Sixth Sense,B,,107,The Sixth Sense.jpg,0,NULL,NULL
 NULL,THRIL,The Skulls II,D,,95,The Skulls II.jpg,0,NULL,NULL
 NULL,THRIL,The Sum of all Fears,D,,118,The Sum of all Fears.jpg,0,NULL,NULL
 NULL,ADVNT,The Three Musketeers,D,,100,The Three Musketeers.jpg,0,NULL,NULL
+NULL,ACTN,The Towering Inferno,B,,165,The Towering Inferno.jpg,0,NULL,NULL
+NULL,DRAMA,The Truman Show,B,,163,The Truman Show.jpg,0,NULL,NULL
 NULL,HIST,The Wind that Shakes the Barley,D,,121,The Wind that Shakes the Barley.jpg,0,NULL,NULL
+NULL,SCIFI,The X-Files - Fight the Future,B,,122,The X-Files - Fight the Future.jpg,0,NULL,NULL
+NULL,SCIFI,The X-Files - I Want to Believe,B,,103,The X-Files - I Want to Believe.jpg,0,NULL,NULL
 NULL,DRAMA,There will be Blood,D,2-Disc Collector's Edition,152,There will be Blood.jpg,0,NULL,NULL
 NULL,THRIL,Thick as Thieves,D,,100,Thick as Thieves.jpg,0,NULL,NULL
 NULL,DRAMA,Thirteen,D,,95,Thirteen.jpg,0,NULL,NULL
 NULL,DRAMA,Thirteen Days,D,,143,Thirteen Days.jpg,0,NULL,NULL
 NULL,DRAMA,This is England,D,,98,This is England.jpg,0,NULL,NULL
 NULL,WAR,Threads,D,,113,Threads.jpg,0,NULL,NULL
+NULL,WAR,Three Kings,B,,115,Three Kings.jpg,0,NULL,NULL
 NULL,WAR,Tigerland,D,,96,Tigerland.jpg,0,NULL,NULL
 NULL,SCIFI,Total Recall,D,,108,Total Recall.jpg,0,NULL,NULL
 NULL,DRAMA,Trainspotting,D,Definitive Edition,90,Trainspotting.jpg,0,NULL,NULL
 NULL,COMDY,Tropic Thunder,D,,102,Tropic Thunder.jpg,0,NULL,NULL
 NULL,DRAMA,Truman,D,,133,Truman.jpg,0,NULL,NULL
+NULL,THRIL,Twelve Monkeys,B,,130,Twelve Monkeys.jpg,0,NULL,NULL
+NULL,DISAS,Twister,B,,102,Twister.jpg,0,NULL,NULL
+NULL,WAR,U-571,B,,109,U-571.jpg,0,NULL,NULL
 NULL,WAR,Under Fire,D,,123,Under Fire.jpg,0,NULL,NULL
 NULL,WAR,Valkrie,D,,115,Valkrie.jpg,0,NULL,NULL
+NULL,THRIL,Vantage Point,B,,90,Vantage Point.jpg,0,NULL,NULL
+NULL,ACTN,War of the Worlds,B,,116,War of the Worlds.jpg,0,NULL,NULL
 NULL,THRIL,Wargames,D,,108,Wargames.jpg,0,NULL,NULL
 NULL,COMDY,Wayne's World,D,,90,Wayne's World.jpg,0,NULL,NULL
 NULL,COMDY,Wayne's World 2,D,,91,Wayne's World 2.jpg,0,NULL,NULL
 NULL,WAR,Welcome to Sarajevo,D,,97,Welcome to Sarajevo.jpg,0,NULL,NULL
+NULL,ACTN,White House Down,B,,131,White House Down.jpg,0,NULL,NULL
 NULL,COMDY,White Men can't Jump,D,,110,White Men can't Jump.jpg,0,NULL,NULL
 NULL,ADVNT,Willow,D,Special Edition,120,Willow.jpg,0,NULL,NULL
 NULL,WAR,Windtalkers,D,Collector's Edition,129,Windtalkers.jpg,0,NULL,NULL
+NULL,WAR,Winter in Wartime,B,,103,Winter in Wartime.jpg,0,NULL,NULL
 NULL,DRAMA,Withnail and I,D,,108,Withnail and I.jpg,0,NULL,NULL
+NULL,HORR,World War Z,B,,123,World War Z.jpg,0,NULL,NULL
 NULL,HIST,Young Guns II,D,,100,Young Guns II.jpg,0,NULL,NULL
