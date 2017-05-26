@@ -5,7 +5,9 @@ WAR,War
 DRAMA,Drama
 HORR,Horror
 HIST,Historic
-SCIFI,"Science Fiction"
+SCIFI,Science Fiction
 THRIL,Thriller
 DISAS,Disaster
 ADVNT,Adventure
+CRIME,Crime
+WEST,Western
